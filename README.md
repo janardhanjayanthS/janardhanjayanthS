@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janardhanjayanths&label=Profile%20views&color=0e75b6&style=flat" alt="janardhanjayanths" /> </p>
 
-- 🔭 I’m currently working on **honing my skills**
+- 🔭 I’m currently working on **my python + development skiils (overall)**
 
 - 🌱 I’m currently learning **FastAPI, AI(Langchain, Langgraph, etc...)**
 
