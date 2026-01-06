@@ -4,8 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janardhanjayanths&label=Profile%20views&color=0e75b6&style=flat" alt="janardhanjayanths" /> </p>
 
-<figure align="center">
+<p align="center">
  <img
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZjN2oxODg1OGthZTA0NmI2b21rODhmdXphYnhoMTJoNWhsOWFicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif"
   alt="Animated GIF"/>
-</figure>
+</p>
