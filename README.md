@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janardhan Jayanth S.</h1>
+<!-- <h1 align="center">Hi 👋, I'm Janardhan Jayanth S.</h1>
 
 <h3 align="center">Developer from Chennai, India</h3>
 
@@ -8,4 +8,4 @@
  <img
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZjN2oxODg1OGthZTA0NmI2b21rODhmdXphYnhoMTJoNWhsOWFicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif"
   alt="Animated GIF"/>
-</p>
+</p> -->
